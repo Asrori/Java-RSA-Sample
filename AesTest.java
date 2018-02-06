@@ -15,10 +15,6 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
 
-/**
- *
- * @author asrori hariri
- */
 public class AesTest {
     
     private static final int ITERATION_COUNT = 65536;
